@@ -1,4 +1,5 @@
 # Google Merchandise Store — Digital Analytics Case Study
+<img width="1137" height="852" alt="image" src="https://github.com/user-attachments/assets/d756b59a-78fd-4f8c-a19f-bf34c645a938" />
 
 **GA4 · Looker Studio · E-commerce Analytics · Funnel Analysis · Growth Strategy**
 
