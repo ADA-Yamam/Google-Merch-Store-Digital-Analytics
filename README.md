@@ -46,3 +46,4 @@ Translated GA4 data into **actionable insights, growth opportunities, and measur
   * *Page 1: Acquisition & Marketing Performance (Live traffic velocity vs financial return)*
   * *Page 2: User Behavior & Funnel Dynamics (Isolating device UX leaks & custom event funnel)*
   * *Page 3: Business & Product Performance (Real-time product revenue & inventory demand tracking)*
+ For the technical framework, hypotheses testing, and deep-dive methodology, read our [Methodology & Strategic Deep-Dive Report](METHODOLOGY.md).
