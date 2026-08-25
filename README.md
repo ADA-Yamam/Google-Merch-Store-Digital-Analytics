@@ -41,3 +41,8 @@ Translated GA4 data into **actionable insights, growth opportunities, and measur
 **Google Analytics 4 · Looker Studio · Google Sheets · Data Visualization · Digital Analytics**
 
 > **From data to diagnosis to business action.**
+## 🔗 Interactive Deliverables
+* **LIVE Operations Dashboard:** https://datastudio.google.com/reporting/89a3c5c7-e515-491d-8be9-9c39369ba75d
+  * *Page 1: Acquisition & Marketing Performance (Live traffic velocity vs financial return)*
+  * *Page 2: User Behavior & Funnel Dynamics (Isolating device UX leaks & custom event funnel)*
+  * *Page 3: Business & Product Performance (Real-time product revenue & inventory demand tracking)*
